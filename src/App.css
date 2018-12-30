@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-left {
+  float: right ;
+  width: 70% ;
+}
+.App-right {
+  float: right;
+  width: 30%;
+}
